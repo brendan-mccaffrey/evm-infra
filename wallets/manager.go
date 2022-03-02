@@ -11,8 +11,8 @@ import (
 	"log"
 	"math/big"
 
-	"pangea/bindings/token"
-	"pangea/tools"
+	"github.com/brendan-mccaffrey/evm-infra/bindings/token"
+	"github.com/brendan-mccaffrey/evm-infra/tools"
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
